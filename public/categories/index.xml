@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on stealthtaco</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on stealthtaco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2021, all rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 18:49:48 -0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>shitposts</title>
+      <link>/categories/shitposts/</link>
+      <pubDate>Thu, 04 Feb 2021 18:49:48 -0600</pubDate>
+      
+      <guid>/categories/shitposts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on stealthtaco</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on stealthtaco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2021, all rights reserved.</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 18:49:48 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ayyyy</title>
+      <link>/posts/ayyyy/</link>
+      <pubDate>Thu, 04 Feb 2021 18:49:48 -0600</pubDate>
+      
+      <guid>/posts/ayyyy/</guid>
+      <description>Decided to put my domain to use again, and abuse the free hosting provided by Github. Figure it&amp;rsquo;ll probably be a better medium for long format content than trying to fit storytime with taco into a massive Twitter thread.
+So! What should you expect to see from me in the future. Probably crappy stories, maybe things I&amp;rsquo;ve learned or challenges I&amp;rsquo;m encountering, possibly something even infosec related. Whatever it is, I hope it&amp;rsquo;s useful as a creative outlet if not helpful to others.</description>
+    </item>
+    
+  </channel>
+</rss>
