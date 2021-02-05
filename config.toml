@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://stealthtaco.com"
 title = "stealthtaco"
 copyright = "Copyright (c) 2021, all rights reserved."
 canonifyurls = true
